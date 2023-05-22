@@ -17,5 +17,52 @@
     align-items: center;
     justify-content: center;
     padding: 15px;
+    background-color: #f1f1f1;
+}
+
+.wrap-login {
+    width: 390px;
+    background-color: #F46F04;    
+    border-radius: 20px;
+
+    overflow: hidden;
+    padding: 77px 55px 33px 55px;
+
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.5 ) ;
+}
+
+.login-form {
     
+}
+
+.login-form-title {
+    display: block;
+    font-size: 30px;
+    color: azure;
+    line-height: 1.2;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-form-title img {
+    width: 90px;
+    margin: 20px 0 20px 0;
+}
+
+.wrap-input {
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid #332f2f;
+    margin-bottom: 37px;
+}
+
+input {
+    font-size: 15px;
+    color: #fff;
+    background-color: #F46F04;
+    line-height: 1.2;
+    border: none;
+    display: block;
+    
+    width: 100%;
 }

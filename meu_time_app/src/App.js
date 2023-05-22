@@ -13,6 +13,11 @@ function App() {
                <img src= {jpIMG} alt="Logo da página" />
             </span>
 
+            <div className='wrap-input'>
+              <input type='password'/>
+              <span className='focus-input' data-placeholder='Key de Autenticação'></span>
+            </div>
+
             <div className="container-login-form-btn">
                 <button className="login-form-btn">Login</button>  
             </div>
