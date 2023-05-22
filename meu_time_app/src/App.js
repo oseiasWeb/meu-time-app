@@ -8,7 +8,7 @@ function App() {
         <div className="wrap-login">
           <form className="login-form">
 
-            <span className="login-form-title">Bem Vindo!</span>
+            <span className="login-form-title">Bem vindo!</span>
             <span className="login-form-title">
                <img src= {jpIMG} alt="Logo da página" />
             </span>
@@ -19,7 +19,7 @@ function App() {
             </div>
 
             <div className="container-login-form-btn">
-                <button className="login-form-btn">Login</button>  
+                <button className="login-form-btn">Entrar</button>  
             </div>
 
             <div className="text-center">
